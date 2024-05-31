@@ -8,4 +8,4 @@ Given: Advertiser Data & Countries Data
 
 Visual representation of different metrics for proper visualisation
 
-Date and catrory level filters are also to set the data accordingly
+Date and category level filters are also to set the data accordingly
